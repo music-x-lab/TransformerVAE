@@ -1,0 +1,14 @@
+h5py==2.10.0
+jams==0.3.2
+joblib==0.14.0
+librosa==0.8.1
+madmom==0.16.1
+matplotlib==3.3.1
+mir_eval==0.5
+numpy==1.17.2
+opencv_python==4.5.2.52
+pretty_midi==0.2.8
+pydub==0.22.1
+rowan==1.2.1
+SoundFile==0.10.3.post1
+torch==1.7.0+cu101
